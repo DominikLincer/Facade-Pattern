@@ -1,0 +1,7 @@
+D:\YouTube\C# Design Patterns\Facade pattern\Search Engine\Search Engine\bin\Debug\Search Engine.exe.config
+D:\YouTube\C# Design Patterns\Facade pattern\Search Engine\Search Engine\bin\Debug\Search Engine.exe
+D:\YouTube\C# Design Patterns\Facade pattern\Search Engine\Search Engine\bin\Debug\Search Engine.pdb
+D:\YouTube\C# Design Patterns\Facade pattern\Search Engine\Search Engine\obj\Debug\Search Engine.csprojResolveAssemblyReference.cache
+D:\YouTube\C# Design Patterns\Facade pattern\Search Engine\Search Engine\obj\Debug\Search Engine.csproj.CoreCompileInputs.cache
+D:\YouTube\C# Design Patterns\Facade pattern\Search Engine\Search Engine\obj\Debug\Search Engine.exe
+D:\YouTube\C# Design Patterns\Facade pattern\Search Engine\Search Engine\obj\Debug\Search Engine.pdb
